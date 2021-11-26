@@ -1,0 +1,95 @@
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+.Intro {
+	background-color: Red;
+	text-align: center;
+    padding: 1px;
+    color: white;
+}
+.News{
+    background-color:Orange;
+    color: white;
+	text-align: center;
+    padding: 1px;
+}
+.logo {
+	background-color: darkblue;
+}
+.input {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: Yellow;
+}
+.input>form {
+	margin: auto;
+}
+#compute {
+	width: 100%;
+}
+ul {
+	margin: 0;
+    padding: 0;
+    list-style-type:none;
+}
+li {
+	margin: auto;
+	color: #e75480; /*Dark Pink*/
+	text-align: center;
+    font-family: "Raleway", Arial, sans-serif;
+}
+.results li {
+	line-height: 150%;
+}
+.News li{
+	color: white;
+}
+
+
+.footer {
+	background-color: gray;
+	text-align: center;
+	padding: 1px;
+}
+* {
+	box-sizing: border-box;
+}
+.logo img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	height: auto;
+}
+
+p{
+	font-family: Verdana,sans-serif;
+}
+.footer p{
+	font-family: "Matterhorn", Helvetica, sans-serif;
+}
+label{
+    font-family: "Raleway", Helvetica, sans-serif;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+select{
+    width: 100%;
+}
+
+.counter{
+	text-align: center;
+	font-family: Verdana,sans-serif;
+	background-color: lightskyblue;
+}
+
+.resultsDisplay{
+	background-color:lightgreen;
+}
+
+td{
+	color: #e75480; /*Dark Pink*/
+}
